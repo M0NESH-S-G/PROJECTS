@@ -1,4 +1,4 @@
-# PROJECT
+# better-world
 
                                                             """"""DISCORD BOT""""""
 
